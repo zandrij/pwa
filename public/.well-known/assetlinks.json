@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "es.autosmotos.app",
+        "sha256_cert_fingerprints": ["8D:5A:4F:94:BC:D9:FE:78:FD:BB:84:CC:A6:4A:DE:14:B6:86:42:1B:37:65:D5:3E:02:54:B7:B0:72:FB:0E:76"]
+      }
+    }]
